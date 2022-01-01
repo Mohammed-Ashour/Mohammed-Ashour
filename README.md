@@ -1,7 +1,7 @@
 ### Hi there 👋 
 <img hight="100" width="230" alt="GIF" align="right" src="assets/hello.gif">  
 
-### My Name is Mohammed Ashour, I'm a Software Engineer who loves messing with data and things that relates to it 🤖
+#### My Name is Mohammed Ashour, I'm a Software Engineer who loves messing with data and things that relates to it 🤖
 
 ###  🔭 My professional experience domains
       * Search engines Pipelines
@@ -28,7 +28,10 @@
 
 💬 **Things that I can talk/write about and use:**  
 
-    Machine Learning & Neural Networks - NLP - OOP - Algorithms & Data structure - APIs - Test-Driven Development (TDD) - Behavior Driven Development (BDD) - Microservices - FastAPI - Flask - MongoDB - GIT - Docker - Tensorflow - Keras - PyTorch - Numpy - Matplotlib – Scrapy – Redis - NLTK - Scikitlearn
+    Machine Learning & Neural Networks - NLP - OOP - Algorithms & Data structure - APIs - Test-Driven Development (TDD)- 
+    Behavior Driven Development (BDD) - Microservices - FastAPI - 
+    Flask - MongoDB - GIT - Docker - Tensorflow - Keras - PyTorch -
+    Numpy - Matplotlib – Scrapy – Redis - NLTK - Scikitlearn
  
  <br>  
 
@@ -54,8 +57,8 @@
 
 ### 📫 How to reach me:
 
-* Email : m.aly.ashour@gmail.com
-* Linkedin: https://www.linkedin.com/in/malyashour/
+    * Email : m.aly.ashour@gmail.com
+    * Linkedin: https://www.linkedin.com/in/malyashour/
 
 
   </a>
