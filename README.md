@@ -52,7 +52,7 @@
 <br>
 <br>
 
-### Worked with/for
+### 🏢 Companies I worked with/for
 
 <table  border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
 
