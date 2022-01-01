@@ -29,9 +29,8 @@
 💬 **Things that I can talk/write about and use:**  
 
     Machine Learning & Neural Networks - NLP - OOP - Algorithms & Data structure - APIs - Test-Driven Development (TDD)- 
-    Behavior Driven Development (BDD) - Microservices - FastAPI - 
-    Flask - MongoDB - GIT - Docker - Tensorflow - Keras - PyTorch -
-    Numpy - Matplotlib – Scrapy – Redis - NLTK - Scikitlearn
+    Behavior Driven Development (BDD) - Microservices - FastAPI - Flask - MongoDB - GIT - Docker -
+    Tensorflow - Keras - PyTorch - Numpy - Matplotlib – Scrapy – Redis - NLTK - Scikitlearn
  
  <br>  
 
