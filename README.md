@@ -4,12 +4,12 @@
 
 <br>
 
-### My Name is Mohammed Ashour, I'm a Software Engineer who loves messing with data and things that relates to it 🤖
+#### My Name is Mohammed Ashour, I'm a Software Engineer who loves messing with data and things that relates to it 🤖
 
 ###  🔭 My professional experience domains
-* Search engines Pipelines
-* NLP 
-* Machine Learning  
+  * Search engines Pipelines
+  * NLP 
+  * Machine Learning  
 
 <img hight="100" width="230" alt="GIF" align="left" src="assets/writing.gif">   
 
@@ -17,8 +17,8 @@
 
 👨‍💻 **Languages that I feel interested in:**
  
-* Python
-* Golang (Currently Learning)
+  * Python
+  * Golang (Currently Learning)
 
 💬 **Things that I can talk/write about and use:**  
 
@@ -27,11 +27,14 @@
  <br>  
 
 ### ✨ Things that excites me:
-<img hight="100" width="230" alt="GIF" align="right" src="assets/excited.gif">  
+<img hight="100" width="230" alt="GIF" align="right" src="assets/excited.gif">
+<br>
 
 * Anime
 * Chess
 * Books
+* Philosophy 
+
 
 <br>
 <br>
