@@ -1,3 +1,11 @@
+<style>
+    
+tr, td {
+    border: 0px !important;
+}
+</style>
+
+
 ### Hi there 👋 
 <img hight="100" width="230" alt="GIF" align="right" src="assets/hello.gif">  
 
