@@ -59,7 +59,6 @@
 <a href= "https://www.yaoota.com" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Yaoota" align="center" src="assets/yaoota.png"></a> </td> 
 <td> <a href= "https://www.udacity.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Udacity" align="center" src="assets/udacity.png"> </a> </td>
 <td> <a href= "https://kashier.io/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Kashier" align="center" src="assets/kashier.png"> </a> </td>
-<tr>
 </table>
 <br>
 
