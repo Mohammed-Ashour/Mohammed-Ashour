@@ -51,7 +51,20 @@
 <br>
 <br>
 
-<img hight="100" width="230" alt="GIF" align="left" src="assets/contact.gif"> 
+### Worked with/for
+
+<table>
+  <tr>
+<td>
+<a href= "https://www.yaoota.com" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Yaoota" align="center" src="assets/yaoota.png"></a> </td> 
+<td> <a href= "https://www.udacity.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Udacity" align="center" src="assets/udacity.png"> </a> </td>
+<td> <a href= "https://kashier.io/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Kashier" align="center" src="assets/kashier.png"> </a> </td>
+<tr>
+</table>
+<br>
+
+
+<img hight="100" width="230" alt="contact" align="left" src="assets/contact.gif"> 
 <br>  
 
 ### 📫 How to reach me:
