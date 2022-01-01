@@ -1,10 +1,7 @@
-### Hi there 👋  مساء الخير 
-<br>
+### Hi there 👋 
 <img hight="100" width="230" alt="GIF" align="right" src="assets/hello.gif">  
 
-<br>
-
-#### My Name is Mohammed Ashour, I'm a Software Engineer who loves messing with data and things that relates to it 🤖
+### My Name is Mohammed Ashour, I'm a Software Engineer who loves messing with data and things that relates to it 🤖
 
 ###  🔭 My professional experience domains
   * Search engines Pipelines
@@ -15,10 +12,10 @@
 
 ### 🛠 My Toolkit
 
-👨‍💻 **Languages that I feel interested in:**
+👨‍💻 **Languages that I feel interested in:**  
  
-  * Python
-  * Golang (Currently Learning)
+    * Python
+    * Golang (Currently Learning)
 
 💬 **Things that I can talk/write about and use:**  
 
