@@ -1,11 +1,3 @@
-<style>
-    
-tr, td {
-    border: 0px !important;
-}
-</style>
-
-
 ### Hi there 👋 
 <img hight="100" width="230" alt="GIF" align="right" src="assets/hello.gif">  
 
@@ -62,6 +54,12 @@ tr, td {
 ### Worked with/for
 
 <table  border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
+<style>
+    
+tr, td {
+    border: 0px !important;
+}
+</style>
   <tr>
 <td>
 <a href= "https://www.yaoota.com" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Yaoota" align="center" src="assets/yaoota.png"></a> </td> 
