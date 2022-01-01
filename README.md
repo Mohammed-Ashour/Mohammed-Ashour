@@ -55,7 +55,10 @@
 
 <table  border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
 <style>
-    
+table {
+    border: 0px !important;
+    border-collapse: collapse;
+    }
 tr, td {
     border: 0px !important;
 }
