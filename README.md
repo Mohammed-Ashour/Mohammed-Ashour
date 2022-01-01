@@ -53,7 +53,7 @@
 
 ### Worked with/for
 
-<table  border="0" cellspacing="0" cellpadding="0" rules=none align="center"  overflow="hidden">
+<table  border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
   <tr>
 <td>
 <a href= "https://www.yaoota.com" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Yaoota" align="center" src="assets/yaoota.png"></a> </td> 
