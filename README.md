@@ -57,10 +57,13 @@
 <table  border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
 
   <tr>
+<td> <a href= "https://spire.com" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Spire Global" align="center" src="https://spire.com/wp-content/uploads/2021/02/Spire_Color.png"> </a> </td>
 <td>
 <a href= "https://www.yaoota.com" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Yaoota" align="center" src="assets/yaoota.png"></a> </td> 
 <td> <a href= "https://www.udacity.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Udacity" align="center" src="assets/udacity.png"> </a> </td>
 <td> <a href= "https://kashier.io/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Kashier" align="center" src="assets/kashier.png"> </a> </td>
+
+
 </table>
 <br>
 
