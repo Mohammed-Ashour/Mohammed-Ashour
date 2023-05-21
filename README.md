@@ -18,7 +18,8 @@
 👨‍💻 **Languages that I feel interested in:**  
  
     * Python
-    * Golang (Currently Learning)
+    * Golang (still growing and learning)
+    * Rust (you can check the repo I had for learning it)
 
 <br>
 <br>
@@ -75,4 +76,5 @@
 
     * Email : m.aly.ashour@gmail.com
     * Linkedin: https://www.linkedin.com/in/malyashour/
+    * blog: blog.m-ashour.space
 
