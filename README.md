@@ -36,7 +36,7 @@
  
  <br>  
 
-### ✨ Things that excites me:
+### ✨ Things that excite me:
 <img hight="100" width="230" alt="GIF" align="right" src="assets/excited.gif">
 <br>
 
@@ -74,7 +74,7 @@
 
 ### 📫 How to reach me:
 
-    * Email : m.aly.ashour@gmail.com
+    * Email: m.aly.ashour@gmail.com
     * Linkedin: https://www.linkedin.com/in/malyashour/
     * blog: blog.m-ashour.space
 
