@@ -5,6 +5,7 @@
 #### My Name is ***Mohammed Ashour*** , I'm a Software Engineer who loves messing with data and things that relates to it 🤖
 
 ###  🔭 My professional experience domains
+      * Space Industry 
       * Search engines Pipelines
       * NLP 
       * Machine Learning  
@@ -18,7 +19,7 @@
 👨‍💻 **Languages that I feel interested in:**  
  
     * Python
-    * Golang (still growing and learning)
+    * Golang 
     * Rust (you can check the repo I had for learning it)
 
 <br>
