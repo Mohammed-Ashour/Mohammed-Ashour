@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<img  alt="Profile" align="right" src="assets/p.jpeg">
+<img height="180" width="80" alt="Profile" align="right" src="assets/p.jpeg">
 
 I'm **Mohammed Ashour**, a passionate **Software Engineer** who loves working with data, building intelligent systems, and exploring the endless possibilities of technology. 🚀
 
