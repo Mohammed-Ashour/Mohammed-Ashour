@@ -1,81 +1,71 @@
+# Hi there! 👋
 
-### Hi there 👋 
-<img hight="100" width="230" alt="GIF" align="right" src="assets/hello.gif">  
+<img height="100" width="230" alt="Profile" align="right" src="assets/p.jpeg">
 
-#### My Name is ***Mohammed Ashour*** , I'm a Software Engineer who loves messing with data and things that relates to it 🤖
+I'm **Mohammed Ashour**, a passionate **Software Engineer** who loves working with data, building intelligent systems, and exploring the endless possibilities of technology. 🚀
 
-###  🔭 My professional experience domains
-      * Space Industry 
-      * Search engines Pipelines
-      * NLP 
-      * Machine Learning  
-<br>
-<br>
-<br>
-<img hight="100" width="230" alt="GIF" align="left" src="assets/writing.gif">   
+---
 
-### 🛠 My Toolkit
+## 🔭 Professional Experience
+I’ve had the privilege of working in diverse domains, including:
+- **Space Industry**
+- **Search Engine Pipelines**
+- **Natural Language Processing (NLP)**
+- **Machine Learning**
 
-👨‍💻 **Languages that I feel interested in:**  
- 
-    * Python
-    * Golang 
-    * Rust (you can check the repo I had for learning it)
+---
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+## 🛠 My Toolkit
 
-💬 **Things that I can talk/write about and use:**  
+### 👨‍💻 Languages I Enjoy:
+- **Python**
+- **Golang**
+- **Rust** *(Check out my learning repo!)*
 
-    Machine Learning & Neural Networks - NLP - OOP - Algorithms & Data structure - APIs - Test-Driven Development (TDD)- 
-    Behavior Driven Development (BDD) - Microservices - FastAPI - Flask - MongoDB - GIT - Docker - Keras - PyTorch - Numpy - 
-    Matplotlib – Scrapy – Redis - NLTK - Scikitlearn
- 
- <br>  
+### 💬 Skills & Technologies:
 
-### ✨ Things that excite me:
-<img hight="100" width="230" alt="GIF" align="right" src="assets/excited.gif">
-<br>
+- **Processing pipeline for satellite data**
+- **AWS**
+- **APIs & Microservices**
+- **Algorithms & Data Structures**
+- **Test-Driven Development (TDD) & Behavior-Driven Development (BDD)**
+- **Docker, GIT**
+- **MongoDB, Redis**
+- **FastAPI, Flask**
+- **Natural Language Processing (NLP)**
+- **Keras, PyTorch, Scikit-learn, Numpy, Matplotlib**
+- **Scrapy, NLTK**
+- **Machine Learning & Neural Networks**
+---
 
-    * Anime
-    * Chess
-    * Books
-    * Philosophy 
+## ✨ Things That Excite Me
+<img height="100" width="230" alt="This is fine" align="right" src="assets/tf.png">
 
+- **Anime**
+- **Chess**
+- **Books**
+- **Philosophy**
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+---
 
-### 🏢 Companies I worked with/for
-
-<table  border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
-
+## 🏢 Companies I’ve Worked With
+<table border=0 cellspacing=0 cellpadding=0 rules=none align="center">
   <tr>
-<td> <a href= "https://spire.com" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Spire Global" align="center" src="https://spire.com/wp-content/uploads/2021/02/Spire_Color.png"> </a> </td>
-<td>
-<a href= "https://www.yaoota.com" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Yaoota" align="center" src="assets/yaoota.png"></a> </td> 
-<td> <a href= "https://www.udacity.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Udacity" align="center" src="assets/udacity.png"> </a> </td>
-<td> <a href= "https://kashier.io/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Kashier" align="center" src="assets/kashier.png"> </a> </td>
-
-
+    <td><a href="https://spire.com" target="_blank" rel="noopener noreferrer"><img height="100" width="100" alt="Spire Global" src="https://spire.com/wp-content/uploads/2021/02/Spire_Color.png"></a></td>
+    <td><a href="https://www.yaoota.com" target="_blank" rel="noopener noreferrer"><img height="100" width="100" alt="Yaoota" src="assets/yaoota.png"></a></td>
+    <td><a href="https://www.udacity.com/" target="_blank" rel="noopener noreferrer"><img height="100" width="100" alt="Udacity" src="assets/udacity.png"></a></td>
+    <td><a href="https://kashier.io/" target="_blank" rel="noopener noreferrer"><img height="100" width="100" alt="Kashier" src="assets/kashier.png"></a></td>
+  </tr>
 </table>
-<br>
 
+---
 
-<img hight="100" width="230" alt="contact" align="left" src="assets/contact.gif"> 
-<br>  
+## 📫 Let’s Connect!
 
-### 📫 How to reach me:
+- **Email**: [m.aly.ashour@gmail.com](mailto:m.aly.ashour@gmail.com)
+- **LinkedIn**: [linkedin.com/in/malyashour](https://www.linkedin.com/in/malyashour/)
+- **Blog**: [blog.m-ashour.space](https://blog.m-ashour.space)
 
-    * Email: m.aly.ashour@gmail.com
-    * Linkedin: https://www.linkedin.com/in/malyashour/
-    * blog: blog.m-ashour.space
+---
 
+Thanks for stopping by!
