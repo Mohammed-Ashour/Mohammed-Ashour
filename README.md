@@ -55,10 +55,10 @@ I’ve had the privilege of working in diverse domains, including:
 ## 🏢 Companies I’ve Worked With
 <table border=0 cellspacing=0 cellpadding=0 rules=none align="center">
   <tr>
-    <td><a href="https://spire.com" target="_blank" rel="noopener noreferrer"><img height="50" width="100" alt="Spire Global" src="https://spire.com/wp-content/uploads/2021/02/Spire_Color.png"></a></td>
+    <td><a href="https://spire.com" target="_blank" rel="noopener noreferrer"><img height="30" width="100" alt="Spire Global" src="https://spire.com/wp-content/uploads/2021/02/Spire_Color.png"></a></td>
     <td><a href="https://www.yaoota.com" target="_blank" rel="noopener noreferrer"><img height="50" width="100" alt="Yaoota" src="assets/yaoota.png"></a></td>
     <td><a href="https://www.udacity.com/" target="_blank" rel="noopener noreferrer"><img height="50" width="100" alt="Udacity" src="assets/udacity.png"></a></td>
-    <td><a href="https://kashier.io/" target="_blank" rel="noopener noreferrer"><img height="50" width="100" alt="Kashier" src="assets/kashier.png"></a></td>
+    <td><a href="https://kashier.io/" target="_blank" rel="noopener noreferrer"><img height="30" width="100" alt="Kashier" src="assets/kashier.png"></a></td>
   </tr>
 </table>
 
