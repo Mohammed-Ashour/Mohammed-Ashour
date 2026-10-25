@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="214" viewBox="0 0 960 214" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering specialties</title>
+  <desc id="desc">Satellite data: ingestion, processing and delivery. Cloud systems: orchestration, scaling and recovery. Scientific ML: models, Python libraries and production.</desc>
+  <rect width="960" height="214" rx="12" fill="#101820"/>
+  <g stroke="#30404c"><path d="M320 28v158M640 28v158"/></g>
+  <g fill="none" stroke="#75d7c5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(28 25)"><path d="m17 8 17 17-14 14L3 22ZM20 11l7-7 11 11-7 7M6 25l-7 7 11 11 7-7M31 31l12 12M34 24a17 17 0 0 1 16 16M35 15a26 26 0 0 1 24 24"/></g>
+    <g transform="translate(350 28)"><rect x="1" y="9" width="47" height="14" rx="3"/><rect x="1" y="31" width="47" height="14" rx="3"/><path d="M9 16h1m-1 22h1M24 23v8M48 16h12v22H48"/></g>
+    <g transform="translate(670 26)"><circle cx="8" cy="12" r="5"/><circle cx="8" cy="40" r="5"/><circle cx="34" cy="26" r="7"/><circle cx="60" cy="12" r="5"/><circle cx="60" cy="40" r="5"/><path d="m13 14 14 9M13 38l14-9m14-6 14-9M41 29l14 9"/></g>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <g fill="#f0f5f7" font-size="23" font-weight="600"><text x="28" y="112">Satellite data</text><text x="350" y="112">Cloud systems</text><text x="670" y="112">Scientific ML</text></g>
+    <g fill="#b6c4ce" font-size="16"><text x="28" y="145">Ingest → process → deliver</text><text x="350" y="145">Orchestrate, scale, recover</text><text x="670" y="145">Models → libraries → production</text></g>
+    <g fill="#75d7c5" font-size="14"><text x="28" y="181">GDAL · Rasterio · Python</text><text x="350" y="181">AWS · Airflow · Kubernetes</text><text x="670" y="181">Python · testing · versioning</text></g>
+  </g>
+</svg>
