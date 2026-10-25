@@ -1,76 +1,67 @@
-# Hi there! 👋
+# Mohammed Ashour
 
-<img height="180" width="250" alt="This is probably fine" align="right" src="assets/tf.png">
+<img src="assets/tf.png" alt="This is fine" width="250" align="right">
 
-I'm **Mohammed Ashour**, a Senior Software Engineer with **7+ years of experience** in **real-time data processing**, **machine learning**, and **cloud technologies** and leading lean Software Engineering teams. Proven expertise in **building scalable systems**, optimizing costs, and leading cross-functional teams to deliver impactful solutions. Proficient in **Python**, **Golang**, and **AWS**, with a strong foundation in **data structures**, **algorithms**, and **DevOps** practices. Seeking to leverage my skills to drive innovation and efficiency in software development.
-<br>
+Senior software engineer working on satellite data systems. Based in Luxembourg.
 
+[CV](https://cv.m-ashour.space) · [Blog](https://blog.m-ashour.space) · [LinkedIn](https://www.linkedin.com/in/malyashour/) · [Email](mailto:m.aly.ashour@gmail.com)
 
+## Now
 
-## 🔭 Professional Experience
-I’ve had the privilege of working in diverse domains, including:
-- **Space Industry**
-- **Search Engine Pipelines**
-- **Natural Language Processing (NLP)**
-- **Machine Learning**
+I'm a Senior Data Engineer at [Hydrosat](https://hydrosat.com/), building satellite imagery pipelines, from ingestion and scientific processing to quality checks and delivery. I work with scientists and product teams to turn research into production software.
 
----
+I've spent 9+ years building data-intensive software. At Spire Global, I built real-time satellite data systems, led engineering for ML-based sea ice detection, and helped reduce AWS costs by approximately $250K a year.
 
-## 🛠 My Toolkit
+## Specialties
 
-### 👨‍💻 Languages I Enjoy:
-- **Python**
-- **Golang**
-- **Rust** *(Check out my learning repo!)*
+<p>
+  <img src="assets/specialties/satellite-data.svg" width="400" alt="Satellite data">
+  <img src="assets/specialties/data-intensive-apps.svg" width="400" alt="Data-intensive apps">
+  <img src="assets/specialties/cloud-systems.svg" width="400" alt="Cloud systems">
+  <img src="assets/specialties/scientific-ml.svg" width="400" alt="Scientific ML">
+</p>
 
-### 💬 Skills & Technologies:
+- Satellite data processing and delivery with Python, GDAL, and Rasterio.
+- Data-intensive apps with Airflow orchestration, retries, and reprocessing. SQS and Postgres.
+- Cloud systems with AWS, Kubernetes, and Terraform/OpenTofu.
+- Scientific ML with tested, versioned Python libraries and NumPy.
 
-- **Processing pipeline for satellite data**
-- **AWS**
-- **Postgres**
-- **DynamoDB, ECS, CloudWatch**
-- **Github Actions, Jenkins** 
-- **APIs & Microservices**
-- **Algorithms & Data Structures**
-- **Test-Driven Development (TDD) & Behavior-Driven Development (BDD)**
-- **Docker, GIT**
-- **MongoDB, Redis**
-- **FastAPI, Flask**
-- **Natural Language Processing (NLP)**
-- **Scikit-learn, Numpy, Matplotlib**
-- **Machine Learning & Neural Networks**
----
+I also work with Go and SQL.
 
-## ✨ Things That Excite Me
+## Selected projects
 
-- **Anime**
-- **Chess**
-- **Books**
-- **Philosophy**
+### [TLEGO](https://github.com/Mohammed-Ashour/tlego)
 
-<br>
+Browse satellites, track positions, and export interactive orbit views. Built in Go with a terminal UI.
 
----
+[![TLEGO orbit viewer showing a satellite trajectory around Earth](assets/projects/tlego.jpg)](https://github.com/Mohammed-Ashour/tlego#orbit-viewer)
 
-## 🏢 Companies I’ve Worked With
-<table border=0 cellspacing=0 cellpadding=0 rules=none align="center">
+<table>
   <tr>
-    <td><a href="https://hydrosat.com/" target="_blank" rel="noopener noreferrer"><img height="50" width="50" alt="Hydrosat" src="https://avatars.githubusercontent.com/u/72878424?s=200&v=4"></a></td>
-    <td><a href="https://spire.com" target="_blank" rel="noopener noreferrer"><img height="30" width="100" alt="Spire Global" src="https://spire.com/wp-content/uploads/2021/02/Spire_Color.png"></a></td>
-    <td><a href="https://www.yaoota.com" target="_blank" rel="noopener noreferrer"><img height="50" width="100" alt="Yaoota" src="assets/yaoota.png"></a></td>
-    <td><a href="https://www.udacity.com/" target="_blank" rel="noopener noreferrer"><img height="50" width="100" alt="Udacity" src="assets/udacity.png"></a></td>
-    <td><a href="https://kashier.io/" target="_blank" rel="noopener noreferrer"><img height="30" width="100" alt="Kashier" src="assets/kashier.png"></a></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Mohammed-Ashour/lod-vault">LODVault</a></h3>
+      <p>A browser extension for saving Luxembourgish vocabulary, reviewing flashcards, and exporting to Anki.</p>
+      <a href="https://github.com/Mohammed-Ashour/lod-vault"><img src="assets/projects/lod-vault.png" alt="LODVault vocabulary list with saved words and translations" width="440"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Mohammed-Ashour/lod-pane">LOD pane</a></h3>
+      <p>A Luxembourgish dictionary sidebar for Word and LibreOffice. Look up words and keep a local vocabulary notebook.</p>
+      <a href="https://github.com/Mohammed-Ashour/lod-pane"><img src="assets/projects/lod-pane.png" alt="LOD pane looking up a selected Luxembourgish word in LibreOffice Writer" width="440"></a>
+      <p><sub>Early implementation. Verified in LibreOffice; Word acceptance testing is still open.</sub></p>
+    </td>
   </tr>
 </table>
 
----
+## Companies I've worked with
 
-## 📫 Let’s Connect!
+<table>
+  <tr>
+    <td align="center"><a href="https://hydrosat.com/"><img src="assets/hydrosat.png" height="48" alt="Hydrosat"><br>Hydrosat</a></td>
+    <td align="center"><a href="https://spire.com/"><img src="assets/spire.png" width="100" alt="Spire Global"><br>Spire Global</a></td>
+    <td align="center"><a href="https://www.yaoota.com/"><img src="assets/yaoota.png" width="100" alt="Yaoota"><br>Yaoota</a></td>
+    <td align="center"><a href="https://www.udacity.com/"><img src="assets/udacity.png" width="100" alt="Udacity"><br>Udacity</a></td>
+    <td align="center"><a href="https://kashier.io/"><img src="assets/kashier.png" width="100" alt="Kashier"><br>Kashier</a></td>
+  </tr>
+</table>
 
-- **Email**: [m.aly.ashour@gmail.com](mailto:m.aly.ashour@gmail.com)
-- **LinkedIn**: [linkedin.com/in/malyashour](https://www.linkedin.com/in/malyashour/)
-- **Blog**: [blog.m-ashour.space](https://blog.m-ashour.space)
-
----
-
-Thanks for stopping by!
+I also write and teach about software engineering, data systems, and machine learning. Away from code, I enjoy chess, anime, books, and philosophy.
