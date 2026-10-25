@@ -14,7 +14,17 @@ I've spent 9+ years building data-intensive software. At Spire Global, I built r
 
 ## Specialties
 
-![Satellite data, data-intensive apps with Airflow orchestration, cloud systems, and scientific ML](assets/specialties.svg)
+<p>
+  <img src="assets/specialties/satellite-data.svg" width="400" alt="Satellite data">
+  <img src="assets/specialties/data-intensive-apps.svg" width="400" alt="Data-intensive apps">
+  <img src="assets/specialties/cloud-systems.svg" width="400" alt="Cloud systems">
+  <img src="assets/specialties/scientific-ml.svg" width="400" alt="Scientific ML">
+</p>
+
+- Satellite data processing and delivery with Python, GDAL, and Rasterio.
+- Data-intensive apps with Airflow orchestration, retries, and reprocessing. SQS and Postgres.
+- Cloud systems with AWS, Kubernetes, and Terraform/OpenTofu.
+- Scientific ML with tested, versioned Python libraries and NumPy.
 
 I also work with Go and SQL.
 

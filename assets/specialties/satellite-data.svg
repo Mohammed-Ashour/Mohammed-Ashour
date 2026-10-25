@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="232" viewBox="0 0 480 232" role="img" aria-labelledby="title desc">
+<title id="title">Satellite data</title>
+<desc id="desc">Satellite data pipelines with GDAL and Rasterio. Data-intensive apps with Airflow orchestration, retries and reprocessing. Cloud systems with AWS, Kubernetes and Terraform/OpenTofu. Scientific ML with tested, versioned Python libraries.</desc>
+<defs>
+  <radialGradient id="earth"><stop stop-color="#203e55"/><stop offset="1" stop-color="#111e2b"/></radialGradient>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111d29"/><stop offset="1" stop-color="#0c131d"/></linearGradient>
+  <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="m1 1 6 3-6 3" fill="none" stroke="#6d8caa" stroke-width="1.5"/></marker>
+</defs>
+<rect x=".5" y=".5" width="959" height="463" rx="16" fill="url(#bg)" stroke="#2b3b4d"/>
+<path d="M480 24v416M24 232h912" stroke="#293849"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+  <g font-size="12" font-weight="600" letter-spacing="1.5"><text x="28" y="34" fill="#78d7c4">EARTH OBSERVATION</text><text x="508" y="34" fill="#80bbff">DATA ENGINEERING</text><text x="28" y="266" fill="#b4a0ff">INFRASTRUCTURE</text><text x="508" y="266" fill="#edbc7b">RESEARCH TO PRODUCTION</text></g>
+  <!-- Satellite orbit and raster tiles -->
+  <g transform="translate(377 80) scale(0.72)" fill="none" stroke-width="1.3">
+    <circle r="39" fill="url(#earth)" stroke="#487a90"/>
+    <ellipse rx="17" ry="39" stroke="#335b72"/><path d="M-38-10h76m-76 20h76M0-39v78" stroke="#335b72"/>
+    <ellipse rx="66" ry="21" transform="rotate(-28)" stroke="#78d7c4"/>
+    <g transform="translate(48 -31) rotate(20)" fill="#122c32" stroke="#9de5d6"><rect x="-5" y="-5" width="10" height="10"/><path d="M-8-7h-9V7h9m16-14h9V7H8M0 5v8"/></g>
+    <g transform="translate(-63 32)" stroke="#78d7c4"><rect width="12" height="12" fill="#21463e"/><rect x="15" width="12" height="12" fill="#2b6052"/><rect y="15" width="12" height="12" fill="#387962"/><rect x="15" y="15" width="12" height="12" fill="#21463e"/></g>
+  </g>
+  <!-- Airflow-style directed workflow, drawn as a DAG -->
+  <g transform="translate(770 60) scale(0.8)" fill="none" stroke="#6d8caa" stroke-width="1.5">
+    <path d="M21 32h26L70 7h28M47 32l23 25h28M120 7h14l20 25h17M120 57h14l20-25" marker-end="url(#arrow)"/>
+    <g fill="#122b42" stroke="#80bbff"><rect x="0" y="21" width="22" height="22" rx="6"/><rect x="98" y="-4" width="22" height="22" rx="6"/><rect x="98" y="46" width="22" height="22" rx="6"/><rect x="173" y="21" width="22" height="22" rx="6"/></g>
+    <g stroke="#a8d2ff"><path d="m6 32 4 4 7-9m87-20 4 4 7-9m-11 55 4 4 7-9m61-20h10m-5-5v10"/></g>
+  </g>
+  <!-- Cloud worker pool -->
+  <g transform="translate(310 277) scale(0.8)" fill="none" stroke-width="1.5">
+    <path d="M10 57h136a18 18 0 0 0 0-36 25 25 0 0 0-43-17A30 30 0 0 0 49 15 22 22 0 0 0 10 57Z" fill="#1c1c35" stroke="#8f80cc"/>
+    <g fill="#252342" stroke="#b4a0ff"><rect x="31" y="39" width="27" height="29" rx="5"/><rect x="68" y="39" width="27" height="29" rx="5"/><rect x="105" y="39" width="27" height="29" rx="5"/></g>
+    <path d="M44 68v15h75V68M81 68v25m-39-41h5m31 0h5m31 0h5" stroke="#b4a0ff"/>
+  </g>
+  <!-- Model packaged as a versioned library -->
+  <g transform="translate(770 286) scale(0.8)" fill="none" stroke-width="1.5">
+    <g stroke="#a18563"><path d="m8 7 30 17L8 43m0-36 30 53L8 43m30-19 30 18-30 18"/></g>
+    <g fill="#352a22" stroke="#edbc7b"><circle cx="8" cy="7" r="5"/><circle cx="8" cy="43" r="5"/><circle cx="38" cy="24" r="5"/><circle cx="38" cy="60" r="5"/><circle cx="68" cy="42" r="5"/></g>
+    <path d="M79 42h25" stroke="#6d8caa" marker-end="url(#arrow)"/>
+    <g transform="translate(115 19)" stroke="#edbc7b" fill="#29231e"><path d="m0 12 24-12 24 12v29L24 53 0 41Z"/><path d="m0 12 24 12 24-12M24 24v29M12 6l24 12"/></g>
+  </g>
+  <g fill="#f1f5fa" font-size="25" font-weight="600"><text x="28" y="103">Satellite data</text><text x="508" y="103">Data-intensive apps</text><text x="28" y="335">Cloud systems</text><text x="508" y="335">Scientific ML</text></g>
+  <g fill="#bbc7d5" font-size="16"><text x="28" y="153">Ingestion, raster processing, and delivery</text><text x="508" y="153">Airflow orchestration, retries, and reprocessing</text><text x="28" y="385">Distributed workloads and infrastructure as code</text><text x="508" y="385">Scientific models as tested Python libraries</text></g>
+  <g font-size="14"><text x="28" y="191" fill="#78d7c4">Python · GDAL · Rasterio</text><text x="508" y="191" fill="#80bbff">Airflow · SQS · Postgres</text><text x="28" y="423" fill="#b4a0ff">AWS · Kubernetes · Terraform/OpenTofu</text><text x="508" y="423" fill="#edbc7b">Python · NumPy · versioning</text></g>
+</g>
+</svg>
