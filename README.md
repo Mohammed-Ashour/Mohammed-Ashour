@@ -14,9 +14,9 @@ I've spent 9+ years building data-intensive software. At Spire Global, I built r
 
 ## Specialties
 
-![Satellite data pipelines, cloud systems, and scientific ML, with the tools I use in each area](assets/specialties.svg)
+![Satellite data, data-intensive apps with Airflow orchestration, cloud systems, and scientific ML](assets/specialties.svg)
 
-I also work with Go, SQL, Postgres, and Terraform/OpenTofu.
+I also work with Go and SQL.
 
 ## Selected projects
 
